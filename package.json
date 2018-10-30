@@ -1,0 +1,23 @@
+{
+  "name": "hello-grunt",
+  "version": "1.0.0",
+  "description": "using grunt for learning",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waihoyu/hello-grunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waihoyu/hello-grunt/issues"
+  },
+  "homepage": "https://github.com/waihoyu/hello-grunt#readme"
+}
